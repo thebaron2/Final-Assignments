@@ -1,0 +1,45 @@
+19:40:00 - Eindhoven
+19:40:00 - Nijmegen
+19:42:00 - Breda
+19:43:00 - Schiphol Airport
+19:44:00 - Den Haag Centraal
+19:45:00 - Rhenen
+19:47:00 - Breukelen
+19:47:00 - Rotterdam Centraal
+19:50:00 - Groningen Europapark
+19:50:00 - Zwolle
+19:53:00 - Eindhoven
+19:53:00 - Nijmegen
+19:55:00 - Amsterdam Centraal
+19:55:00 - Weesp
+19:57:00 - Tiel
+19:58:00 - Schiphol Airport
+19:59:00 - Den Haag C./Rotterdam C.
+20:03:00 - Den Haag Centraal
+20:06:00 - Amersfoort Schothorst
+20:06:00 - Baarn
+20:07:00 - Eindhoven
+20:08:00 - Nijmegen
+20:10:00 - Almere Oostvaarders
+20:10:00 - Heerhugowaard
+20:12:00 - Breda
+20:13:00 - Rhenen
+20:13:00 - Schiphol Airport
+20:14:00 - Den Haag Centraal
+20:17:00 - Breukelen
+20:17:00 - Rotterdam Centraal
+20:20:00 - Leeuwarden
+20:20:00 - Zwolle
+20:23:00 - Eindhoven
+20:23:00 - Nijmegen
+20:25:00 - Amsterdam Centraal
+20:25:00 - Weesp
+20:27:00 - Tiel
+20:28:00 - Schiphol Airport
+20:29:00 - Den Haag C./Rotterdam C.
+20:33:00 - Amsterdam Centraal
+20:33:00 - Den Haag Centraal
+20:36:00 - Baarn
+20:36:00 - Enschede
+20:37:00 - Eindhoven
+20:38:00 - Nijmegen
