@@ -17,9 +17,10 @@ print()
 
 print('Dit zijn alle stations met één of meer synoniemen:')
 for station in stations:
-    if 'Synoniem' in 'Synoniemen':
+    if station['Synoniemen'] == None:
+        pass
+    else:
         print('{:4} - {}'.format(station['Code'], station['Synoniemen']))
-
 print()
 
 print('Dit is de lange naam van elk station:')
